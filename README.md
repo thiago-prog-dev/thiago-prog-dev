@@ -2,4 +2,5 @@
 Me chamo Thiago Silva 😄
 
 - Sou estudante de programação
-- Estou me desenvolvendo para me tornar dev ###Front-end
+- Estou me desenvolvendo para me tornar dev `Front-end`
+- Utilizo essa ferramenta para compartilhamento dos meus projetos
