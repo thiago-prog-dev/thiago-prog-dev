@@ -8,4 +8,4 @@ Me chamo Thiago Silva 😄
   ### Para contato📬
   thibeca1998@gmail.com
 
-  ![](https://media.tenor.com/5ry-200hErMAAAAd/hacker-hacker-man.gif)
+  ![](https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif)
